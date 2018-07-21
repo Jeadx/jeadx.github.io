@@ -35,8 +35,8 @@ body{
 	
 }
 #BOTTONE{
-	top: 80%;
 	position: absolute;
+	top: 80%;
 	transition: all 1.5s;
 	height: 50px;
 	width: 100px;
