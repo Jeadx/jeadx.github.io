@@ -1,0 +1,56 @@
+html,body{
+	height: 100%;
+	width: 100%;
+
+}
+
+body{
+	background-image: url(http://4recentcars.com/wp-content/uploads/2018/04/4k-wallpaper-lovely-4k-minimalist-wallpaper-67-images-of-4k-wallpaper.jpg);
+	background-size:cover;
+}
+
+#SCRITTABOX{
+	height: 80%;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	position: absolute;
+	top: 20%;
+	
+
+}
+
+#SCRITTA{
+	font-size: 5em;
+	font-family: Georgia;
+	color:#212121;
+	text-shadow: 3px 3px #CDDC39;
+
+
+}
+
+#BOTTONEBOX{
+	height: 20%;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	position: absolute;
+	top: 80%;
+	transition: 1s;
+
+}
+#BOTTONEBOX:hover{
+	animation-name: bounceIn
+}
+
+#BOTTONE{
+		height: 50px;
+		padding: 0px 50px;
+}
+
+a, a:link, a:visited, a:hover, a:active, .box, .box:link, .box:visited, .box:hover, .box:active, .box:visited{
+	text-decoration: none;
+	color: #212121;
+
+}
+

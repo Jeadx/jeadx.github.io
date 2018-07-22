@@ -1,0 +1,84 @@
+html,body{
+	height: 120%;
+	width: 100%;
+}
+
+.navbar {
+    background-color: #CDDC39 !important;
+
+}
+
+
+#TESTODESTRA {
+	display: flex;
+	position: absolute;
+	margin-left: 55%;
+	margin-right: 5%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	background-color: #CDDC39;
+
+}
+#paragrafodestra{
+	margin-left: 10%;
+	margin-right: 10%;
+	padding-top: 10%;
+	padding-bottom: 10%;
+	font-size: 1.5em;
+	font-family: Georgia;
+	color: #212121;
+	
+}
+
+#TESTOSINISTRA{
+	display: flex;
+	position: absolute;
+	margin-left: 5%;
+	margin-right: 55%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	background-color: #CDDC39;
+}
+
+#paragrafosinistra{
+
+	margin-left: 10%;
+	margin-right: 10%;
+	padding-top: 10%;
+	padding-bottom: 10%;
+	font-size: 1.5em;
+	font-family: Georgia;
+	color: #212121;
+}
+
+#TESTOBASSO{
+	display: flex;
+
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 50%;
+	margin-bottom: 5%;
+	background-color: #CDDC39;
+}
+
+#paragrafobasso{
+	padding-left: 5%;
+	padding-right: 5%;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	font-size: 1.5em;
+	font-family: Georgia;
+	color: #212121;
+}
+
+.btn-dark{
+	color:#CDDC39!important;
+}
+
+body{
+	/*background-image: url(https://wallpaperclicker.com/storage/wallpaper/COOL-WALLPAPER-7037-21909636.jpg);*/
+	background-color: #212121 !important; 
+
+	
+}
+
